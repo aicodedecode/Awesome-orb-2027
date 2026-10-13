@@ -2,7 +2,7 @@
  * Demo wiring — vanilla JS against @awesome-orbs-2027/core's dist build.
  * Serve this folder over http; ES modules are blocked on file://.
  */
-import { createOrb, getState, stateNames } from '../packages/core/dist/index.js';
+import { createOrb, getState, stateNames } from './vendor/core/index.js';
 
 const app = document.getElementById('app');
 const orbs = [];

@@ -1,10 +1,19 @@
 # Awesome Orbs 2027
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/aicodedecode/Awesome-orbs-2027?style=social)](https://github.com/aicodedecode/Awesome-orbs-2027)
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Awesome Orbs 2027 — animated dotted-orb loading states" width="320">
+</p>
+
+<p align="center">
+  <a href="https://aicodedecode.github.io/Awesome-orbs-2027/demo/"><b>◉ Live demo — try all 65 states</b></a>
+</p>
+
 A dotted-orb animation library: 65 expressive loading states rendered as
 animated dot fields on plain 2D canvas. Framework-agnostic core plus a thin
 React wrapper. Zero runtime dependencies, no WebGL, no images.
-
-> Status: 65 states shipped. Not published to npm or GitHub yet.
 
 ## Packages
 
