@@ -1,0 +1,15 @@
+{
+  "description": "Framework-agnostic dotted-orb animation engine (2D canvas, zero runtime deps).",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "name": "@awesome-orbs-2027/core",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "0.1.0",
+  "type": "module"
+}

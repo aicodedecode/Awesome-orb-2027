@@ -1,0 +1,1 @@
+{"description":"Thin React wrapper around @awesome-orbs-2027/core.","exports":{".":"./dist/index.js"},"license":"MIT","main":"./dist/index.js","name":"@awesome-orbs-2027/react","peerDependencies":{"react":"^18 || ^19"},"scripts":{"build":"tsc -p tsconfig.json"},"types":"./dist/index.d.ts","version":"0.1.0","devDependencies":{"@types/react":"^19.3.0"}}
