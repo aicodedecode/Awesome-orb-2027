@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/aicodedecode/Awesome-orbs-2027?style=social)](https://github.com/aicodedecode/Awesome-orbs-2027)
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Awesome Orbs 2027 — animated dotted-orb loading states" width="320">
+  <img src="assets/hero.svg" alt="Awesome Orbs 2027 — animated dotted-orb loading states" width="320">
 </p>
 
 <p align="center">
